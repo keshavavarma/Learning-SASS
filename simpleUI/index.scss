@@ -5,7 +5,17 @@
 @import "base";
 
 // colors
+@import "colors";
 
 // components (buttons,card,navbar etc)
+@import "components/card";
 
 //utilities (margin,padding,opacity etc)
+
+/* remove me later */
+span {
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 5px;
+}
+/* remove me later */
